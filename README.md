@@ -1,4 +1,4 @@
-# Beatpix
+# BeatPix
 
 Create videos from combining image and audio!
 
